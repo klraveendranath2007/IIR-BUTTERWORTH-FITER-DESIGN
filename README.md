@@ -1,22 +1,26 @@
-# EXP 3 : IIR-BUTTERWORTH-FITER-DESIGN
+## EXP 3 A : IIR-BUTTERWORTH-FITER-DESIGN
 
-## AIM: 
+### AIM: 
+ To design an IIR Butterworth filter using bilinear transformation in SCILAB. 
 
- To design an IIR Butterworth filter  using SCILAB. 
-
-## APPARATUS REQUIRED: 
+### APPARATUS REQUIRED: 
 PC installed with SCILAB. 
 
-## PROGRAM (LPF): 
+### PROGRAM (LPF): 
+```python
+
+```
 
 
+### PROGRAM (HPF): 
+```python
 
-## PROGRAM (HPF): 
+```
 
 
+### OUTPUT (LPF) : 
 
-## OUTPUT (LPF) : 
+### OUTPUT (HPF) : 
 
-## OUTPUT (HPF) : 
-
-## RESULT: 
+### RESULT: 
+Thus , the IIR Butterworth filter was designed successfully using bilinear transformation in SCILAB.
