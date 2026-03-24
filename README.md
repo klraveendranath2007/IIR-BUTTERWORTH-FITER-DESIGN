@@ -1,4 +1,4 @@
-## EXP 3 A : IIR-BUTTERWORTH-FITER-DESIGN
+## EXP 3 A : IIR BUTTERWORTH FITER DESIGN
 
 ### AIM: 
  To design an IIR Butterworth filter using bilinear transformation in SCILAB. 
