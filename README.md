@@ -138,11 +138,14 @@ xgrid();
 
 
 ### OUTPUT (LPF) : 
+<img width="340" height="451" alt="image" src="https://github.com/user-attachments/assets/75a60249-8d8e-4f10-bb3b-a450ad3402b7" />
 
-<img width="351" height="292" alt="image" src="https://github.com/user-attachments/assets/10f3277c-2a4d-4bba-8649-d594111e4463" />
+<img width="351" height="492" alt="image" src="https://github.com/user-attachments/assets/10f3277c-2a4d-4bba-8649-d594111e4463" />
 
-### OUTPUT (HPF) : 
-<img width="345" height="293" alt="image" src="https://github.com/user-attachments/assets/51062bc8-25f6-4534-9e7b-f827b984617e" />
+### OUTPUT (HPF) :
+<img width="295" height="406" alt="image" src="https://github.com/user-attachments/assets/bbaca645-a0b8-4d8c-abcd-44bcc0847a60" />
+
+<img width="345" height="493" alt="image" src="https://github.com/user-attachments/assets/51062bc8-25f6-4534-9e7b-f827b984617e" />
 
 ### RESULT: 
 Thus , the IIR Butterworth filter was designed successfully using bilinear transformation in SCILAB.
